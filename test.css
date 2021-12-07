@@ -1,7 +1,7 @@
 
 .logo {
     width: 100px;
-    height: 75;
+    height: 75px;
 }
 nav{
     display: flex;
@@ -43,3 +43,35 @@ color: black;
 .breadcrumb ul li a:hover{
     text-decoration: underline;
 }
+section article  img{
+    width: 250px;
+}
+h1{
+    margin-left: 10px;
+}
+p{
+    margin-left: 10px;
+
+}
+section article{
+    border: 2px solid;
+    border-color: gray;
+    width: 21%;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.p1{
+    color: grey;
+}
+.p3{
+    color: green;
+}
+section {
+    display: flex;
+}
+span{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
